@@ -11,4 +11,6 @@ It ingests job description text, retrieves and reranks relevant chunks, and gene
 - Lightweight generator for concise answers
 - Citation support for transparency
 
+## 📐 Architecture
+
 **Note:** This is a simulated version created with AI tools, designed for demonstration and learning. There is scope for further improvement.
