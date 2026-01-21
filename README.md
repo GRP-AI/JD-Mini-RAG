@@ -9,6 +9,6 @@ It ingests job description text, retrieves and reranks relevant chunks, and gene
 - Maximal Marginal Relevance (MMR) for diverse retrieval
 - Cross‑encoder reranker for precision
 - Lightweight generator for concise answers
-- Citation support for transparency.
+- Citation support for transparency
 
 **Note:** This is a simulated version created with AI tools, designed for demonstration and learning. There is scope for further improvement.
