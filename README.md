@@ -10,6 +10,5 @@ It ingests job description text, retrieves and reranks relevant chunks, and gene
 - Cross‑encoder reranker for precision
 - Lightweight generator for concise answers
 - Citation support for transparency
-- Graceful handling of no‑answer cases
 
 **Note:** This is a simulated version created with AI tools, designed for demonstration and learning. There is scope for further improvement.
